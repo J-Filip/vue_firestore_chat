@@ -25,3 +25,8 @@ npm run build
 
 - stable version but still in progress.
 - ready to deploy !
+- 
+
+## About
+
+Started from Net Ninja tutorial and gradually adding features. 
