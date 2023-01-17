@@ -1,7 +1,18 @@
 # vue_firestore_chat
 
-This template should help get you started developing with Vue 3 in Vite.
+## What
 
+Started from Net Ninja tutorial  and gradually adding features. 
+
+## Why
+
+Learning and playing with Vue 3.
+
+
+### 2023 UPDATE 
+
+- stable version but still in progress.
+- deployed with firebase hosting.
 
 ## Project Setup
 
@@ -20,13 +31,3 @@ npm run dev
 ```sh
 npm run build
 ```
-
-## 2023 UPDATE 
-
-- stable version but still in progress.
-- ready to deploy !
-- 
-
-## About
-
-Started from Net Ninja tutorial and gradually adding features. 
